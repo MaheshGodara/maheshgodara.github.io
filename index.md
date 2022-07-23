@@ -1,36 +1,25 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/MaheshGodara/maheshgodara.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+👋 Hi, I’m Rahul Chandna
+👀 I’m interested in solving complex problems,designing and developing data-processing solutions.
+🌱 I’m currently learning Microsoft Azure
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+I’m most known for :
+- Implementing physical and logical data structures, 
+- Developing batch-processing and stream-processing solutions, 
+- Designing and implementing data security,
+- Monitoring and optimizing data stores and data processing
 
-# Header 1
-## Header 2
-### Header 3
+You may connect with me via :
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Twitter](https://twitter.com/i/flow/login?lang=en) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+The main motivation behind this website is to have a place where I document my journey.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MaheshGodara/maheshgodara.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The posts that you see are like 10% of what I have worked on so far, but I had to start from somewhere, so in 2022 I did a thumb suck and started documenting things that I could remember from 2014.
 
 ### Support or Contact
 
