@@ -1,11 +1,10 @@
-👋 Hi, I’m Rahul Chandna
+👋 Hi, I’m Mahesh Godara
 👀 I’m interested in solving complex problems,designing and developing data-processing solutions.
 🌱 I’m currently learning Microsoft Azure
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+
+
 I’m most known for :
 - Implementing physical and logical data structures, 
 - Developing batch-processing and stream-processing solutions, 
@@ -14,8 +13,11 @@ I’m most known for :
 
 You may connect with me via :
 
-[Twitter](https://twitter.com/i/flow/login?lang=en) and ![Image](src)
-```
+- [Twitter](https://twitter.com/ims_bishnoi)
+
+- [Email](learningbishnoi@gmail.com)
+
+
 
 The main motivation behind this website is to have a place where I document my journey.
 
